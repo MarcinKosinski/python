@@ -1,0 +1,9 @@
+Package: python
+Type: Package
+Title: Python
+Version: 0.1.0
+Author: Why R? Foundation
+Maintainer: Kontakt <kontakt@whyr.pl>
+Description: Uses python name.
+License: GPL-2
+URL: http://whyr.pl/
